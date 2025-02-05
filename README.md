@@ -2,7 +2,7 @@
 Go Garden is a web application built using Flask, SQLAlchemy, and pytest to provide an interactive platform for gardening enthusiasts. The website serves as an online gardening store and a knowledge hub, allowing users to explore plants, purchase gardening products, and learn best practices for plant care.
 
 #
-#
+
 
 #*Tech Stack*:
 
@@ -14,8 +14,7 @@ Frontend: HTML, CSS, JavaScript (optional frameworks like Bootstrap)
 
 Testing: pytest (for unit and integration testing)
 
-#
-#
+
 #
 
 #*Features*:
@@ -71,7 +70,7 @@ OrderItem: id, order_id, product_id, quantity
 
 Blog: id, title, content, user_id, created_at
 
-#
+
 #
 
 #*Current Progress*:
