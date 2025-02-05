@@ -4,7 +4,7 @@ Go Garden is a web application built using Flask, SQLAlchemy, and pytest to prov
 #
 
 
-#*Tech Stack*:
+*Tech Stack*:
 
 Backend: Flask (Python-based web framework)
 
@@ -17,7 +17,7 @@ Testing: pytest (for unit and integration testing)
 
 #
 
-#*Features*:
+*Features*:
 
 1️⃣ User Management
 User registration and authentication (login/logout)
@@ -52,7 +52,7 @@ Functional tests for routes and API responses
 Integration tests for user and order workflows
 
 
-#*Database Schema (Using SQLAlchemy)*
+*Database Schema (Using SQLAlchemy)*
 
 User: id, name, email, password, role
 
@@ -73,7 +73,7 @@ Blog: id, title, content, user_id, created_at
 
 #
 
-#*Current Progress*:
+*Current Progress*:
 
 ✅ Database schema designed using SQLAlchemy
 ✅ Basic CRUD operations for products & categories implemented
