@@ -76,7 +76,11 @@ Blog: id, title, content, user_id, created_at
 *Current Progress*:
 
 ✅ Database schema designed using SQLAlchemy
+
 ✅ Basic CRUD operations for products & categories implemented
+
 ✅ User authentication system working
+
 ✅ pytest setup and initial test cases written
+
 
