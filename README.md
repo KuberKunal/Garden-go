@@ -55,13 +55,21 @@ Integration tests for user and order workflows
 Database Schema (Using SQLAlchemy)
 
 User: id, name, email, password, role
+
 Product: id, name, category_id, price, stock, description
+
 Category: id, name
+
 Cart: id, user_id, total_price
+
 CartItem: id, cart_id, product_id, quantity
+
 Order: id, user_id, total_price, status, created_at
+
 OrderItem: id, order_id, product_id, quantity
+
 Blog: id, title, content, user_id, created_at
+
 
 
 Current Progress:
